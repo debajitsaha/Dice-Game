@@ -1,0 +1,53 @@
+body{
+    margin-top: 100px;
+    text-align: center;
+    background-image:url("./iage/Cube-and-Dice.webp") ;
+background-repeat:no-repeat;
+background-size: cover;
+font-size: 2em;
+color: rgb(12, 247, 32);
+font-weight: bold;
+
+}
+#p1{
+    height: 25px;
+    width: 50px;
+    border-radius:20px;
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+#p2{
+height: 25px;
+width: 50px;
+border-radius:20px;
+color: rgb(13, 5, 126);
+font-weight: bold;
+font-size: 30px;
+text-align: center;
+}
+#show{
+    height: 25px;
+    width: 50px;
+    border-radius:20px;
+    color: rgb(13, 5, 126);
+    font-weight: bold;
+    font-size: 30px; 
+    text-align: center;
+}
+#but{
+    height: 35px;
+    width: 150px;
+    border-radius:20px;
+    color: rgb(13, 5, 126);
+    font-weight: bold;
+    font-size: 20px; 
+}
+#out{
+    color: rgb(22, 247, 52);
+    font-weight: bold;
+}
+#p{
+    color: rgb(250, 14, 14);
+}

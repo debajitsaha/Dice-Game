@@ -15,11 +15,11 @@ function display()
     document.getElementById("p2").value=p2
     if(p1>=30)
     {
-        document.getElementById("out").innerHTML="Player 1 is win!!"
+        document.getElementById("out").innerHTML="Congrats!! Player 1 is win!!"
     }
     if(p2>=30)
     {
-        document.getElementById("out").innerHTML="Player 2 is win!!"
+        document.getElementById("out").innerHTML="Congrats!! Player 2 is win!!"
     }
 }
 
